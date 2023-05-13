@@ -1,0 +1,22 @@
+body,td,p,div,span,a,input,big,small{font-family:arial,helvetica,sans-serif}
+body,td,p,div,span,a,input{font-size:10pt}
+small,.small,small span,.small span,.small a,small a,div.sitelinks,div.sitelinks a,div.footlinks,div.footlinks a{font-size:9pt}
+big,.big,big span,.big span,.big a,big a{font-size:11pt}
+body,td,p,div,div.sitelinks a#homelink{color:#333}
+input.buttonred{background:#acacac;cursor:hand;color:#FFF;height:1.4em;font-weight:bold;padding:0px;margin:0px;border:0px none #000}
+input.medium{width:120px;height:18px}
+a{text-decoration:none}
+a:visited{color:#10284a}
+a:link,a.named:visited,div.breadcrumb a:visited,div.sitelinks a:visited,div.footlinks a:visited{color:#10284a}
+a:hover{text-decoration:underline}
+.footlinks{padding:7px 0px}
+.toolbar{padding:7px 0px 3px 0px}
+.homenav{padding:7px 0px 0px 0px}
+.homeftr{padding:0px}
+.htitle div{padding:11px 0px 0px 0px}
+.hitemtop div{padding:6px 0px 2px 0px}
+.hitem div{padding:3px 0px 2px 0px}
+.hitemverybottom div{padding:3px 0px 0px 0px}
+.htitle div{font-weight:bold}
+.spot div{padding:6px 0px 6px 0px}
+.spottop div{padding:0px 0px 6px 0px}
